@@ -1,16 +1,29 @@
-## Hi there 👋
+# Welcome! 👋
 
-<!--
-**simeon-raykov/simeon-raykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Simeon Raykov
 
-Here are some ideas to get you started:
+A passionate **Software Engineer** based in **Sofia, Bulgaria**, specializing in building **user-friendly**, **fast**, and **scalable web applications**. I focus on creating reliable systems with an emphasis on **clean code**, **automated testing**, and **continuous improvement**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Focus
+- Web Development
+- Scalable Architectures
+- Performance Optimizations
+- Implementing software architecture best practices no matter the technology or language
+
+---
+
+### Outside of Work
+
+When I'm not coding, I love staying active and challenging myself. I enjoy:
+- Swimming
+- Strength training at the gym
+- Drinking cappuccinos
+- Participating in the **Legion Run** event
+
+---
+
+### Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/simeon-raykov-0776151b9/)
+- [Email](mailto:makenr3@gmail.com)
